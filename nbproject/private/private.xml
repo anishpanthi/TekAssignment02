@@ -5,8 +5,9 @@
         <group>
             <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/src/com/app/teksys/service/Order.java</file>
             <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/src/com/app/teksys/entity/OrderLine.java</file>
+            <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/src/com/app/teksys/entity/Item.java</file>
+            <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/test/com/app/teksys/entity/OrderLineTest.java</file>
             <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/src/com/app/teksys/util/Calculator.java</file>
-            <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/test/com/app/teksys/util/UtilSuite.java</file>
             <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/test/com/app/teksys/util/CalculatorTest.java</file>
             <file>file:/C:/Users/Anish%20Panthi/Desktop/JDs%20From%20Tek/Coding%20Exercise/Foo/TekSystemAssignment02/src/com/app/teksys/main/Main.java</file>
         </group>
